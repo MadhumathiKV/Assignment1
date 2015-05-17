@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_url">Enter Url</string>
+    <string name="add_url">Add Url</string>
+    <string name="download_and_display_image">Download and display image</string>
+    <string name="clear_directory">Clear Directory</string>
+
+</resources>
